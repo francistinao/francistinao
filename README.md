@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [francistinao.tech](francistinao.tech)
 
-- ⚡ Fun fact **I love art---I drew a lot of illustrations, traditionally or digitally. I also love listening music.**
+- ⚡ Fun fact **I love art---I love to draw a lot of illustrations, traditionally or digitally & also like to listen music most of the time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
