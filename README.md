@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/francistinao_" target="blank"><img src="https://img.shields.io/twitter/follow/francistinao_?logo=twitter&style=for-the-badge" alt="francistinao_" /></a> </p>
 
-- 💬 Anything to ask more about me? Feel free to [explore](gmail.com/franfra10j@gmail.com)
+- 💬 Anything to ask more about me? Feel free to [message](gmail.com/franfra10j@gmail.com)
 
 - 👨‍💻 All of my projects are available at [francistinao.tech](https://francistinao.tech)
 
