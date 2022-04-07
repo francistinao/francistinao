@@ -6,7 +6,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francistinao" alt="francistinao" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/francistinao_" target="blank"><img src="https://img.shields.io/twitter/follow/francistinao_?logo=twitter&style=for-the-badge" alt="francistinao_" /></a> </p>
 <p align="center"> A 19 year-old Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
 <hr>
 - 💬 Anything to ask more about me? Feel free to [message](gmail.com/franfra10j@gmail.com)
@@ -20,6 +19,7 @@
 <a href="https://linkedin.com/in/francis-tin-ao-10050412a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francistinao" height="30" width="40" /></a>
 <a href="https://fb.com/frncstnao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frxcstn" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://twitter.com/francistinao_" target="blank"><img src="https://img.shields.io/twitter/follow/francistinao_?logo=twitter&style=for-the-badge" alt="francistinao_" /></a> </p>
 <hr>
 <h3 align="left">Technology Stack<sup>⚪<sup></h3>
 <p>These are the technologies I use and been practicing more on the rest<p>
