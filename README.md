@@ -7,11 +7,8 @@
 
 <p> Currently 19 years old and I am a Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
 <hr>
-💬 Anything to ask more about me? Feel free to message @ franfra10j@gmail.com <br>
-👨‍💻 All of my projects are available at <a href="https://francistinao.tech">francistinao.tech</a> <br>
-⚡ Fun fact about me: function iLoveArt() { 
-            I love to draw a lot of illustrations, traditionally or digitally & also like to listen music most of the time 
-           }
+💬 Anything to ask more about my info? Feel free to email me @ franfra10j@gmail.com <br>
+👨‍💻 All of my projects are available at <a href="https://francistinao.tech">francistinao.tech</a> 
 <hr>
 <h3>Connect with me</h3>
 <p>
