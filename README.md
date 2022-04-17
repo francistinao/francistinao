@@ -1,5 +1,5 @@
 <h2>👋 Hello there</h2>
-<h3>My name is Francis Tin-ao, a BSIT Student specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
+<h3>My name is **Francis Tin-ao**, a BSIT Student specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
 <br>
 [![GitHub Francis](https://img.shields.io/github/followers/francistinao?label=follow&style=social)](https://github.com/francistinao)
 <br>
