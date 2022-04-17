@@ -1,4 +1,4 @@
-<h2>👋 Hello there</h2>
+<h2>Howdy 👋</h2>
 <h3>My name is <b>Francis Tin-ao</b>, a <b>BSIT Student</b> specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
 
 
@@ -11,12 +11,13 @@
 - 👨‍💻 All of my projects are available at [francistinao.tech](https://francistinao.tech) <br>
 - ⚡ Fun fact **I love art---I love to draw a lot of illustrations, traditionally or digitally & also like to listen music most of the time**
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francis-tin-ao-10050412a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francistinao" height="30" width="40" /></a>
-<a href="https://fb.com/frncstnao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frxcstn" height="30" width="40" /></a>
-</p>
-<p> <a href="https://twitter.com/francistinao_" target="blank"><img src="https://img.shields.io/twitter/follow/francistinao_?logo=twitter&style=for-the-badge" alt="francistinao_" /></a> </p>
+<h3>Connect with me</h3>
+<p>
+ 
+[![Linkedin: Francis Tin-ao](https://img.shields.io/badge/-Francis_Tin-ao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-tin-ao-10050412a/)](https://www.linkedin.com/in/francis-tin-ao-10050412a/)
+[![Instagram: Francis Tin-ao](https://img.shields.io/badge/-bryl.lim-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/frxcstn/)](https://www.instagram.com/frxcstn/)
+![Twitter Follow](https://img.shields.io/twitter/follow/bryllim_?style=social)
+ 
 <hr>
 <h3 align="left">Technology Stack<sup>⚪<sup></h3>
 <p>These are the technologies I use and been practicing more on the rest<p>
