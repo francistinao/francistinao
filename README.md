@@ -14,9 +14,9 @@
 <h3>Connect with me</h3>
 <p>
  
-[![Linkedin: Francis Tin-ao](https://img.shields.io/badge/-Francis_Tin-ao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-tin-ao-10050412a/)](https://www.linkedin.com/in/francis-tin-ao-10050412a/)
-[![Instagram: Francis Tin-ao](https://img.shields.io/badge/-bryl.lim-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/frxcstn/)](https://www.instagram.com/frxcstn/)
-![Twitter Follow](https://img.shields.io/twitter/follow/bryllim_?style=social)
+[![Linkedin: Francis Tin-ao](https://img.shields.io/badge/-Bryl_Kezter_Lim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francis-tin-ao-10050412a/)](https://www.linkedin.com/in/francis-tin-ao-10050412a/)
+[![Linkedin: Francis Tin-ao](https://img.shields.io/badge/-bryl.lim-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/frxcstn/)](https://www.instagram.com/frxcstn/)
+![Twitter Follow](https://img.shields.io/twitter/follow/francistinao_?style=social)
  
 <hr>
 <h3 align="left">Technology Stack<sup>⚪<sup></h3>
