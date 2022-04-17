@@ -1,12 +1,11 @@
-<h1 align="center">👋 Hello there! My name is Francis Tin-ao</h1>
-<h3 align="center">A BSIT Student specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
-<img align="center" alt="Me Coding :D" width="1000" src="https://uploads-ssl.webflow.com/5eab2bf18090600d143eb5d9/6077af2f2cf4c128dcea11c5_Saly-13.png">
+<h2>👋 Hello there! My name is Francis Tin-ao</h2>
+<h3>A BSIT Student specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=francistinao&label=Profile%20views&color=0e75b6&style=flat" alt="francistinao" width="140"/> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=francistinao&label=Profile%20views&color=0e75b6&style=flat" alt="francistinao" width="140"/> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francistinao" alt="francistinao" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francistinao" alt="francistinao" /></a> </p>
 
-<p align="center"> A 19 year-old Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
+<p> A 19 year-old Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
 <hr>
 - 💬 Anything to ask more about me? Feel free to message @ franfra10j@gmail.com <br>
 - 👨‍💻 All of my projects are available at [francistinao.tech](https://francistinao.tech) <br>
@@ -17,7 +16,7 @@
 <a href="https://linkedin.com/in/francis-tin-ao-10050412a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francistinao" height="30" width="40" /></a>
 <a href="https://fb.com/frncstnao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frxcstn" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/francistinao_" target="blank"><img src="https://img.shields.io/twitter/follow/francistinao_?logo=twitter&style=for-the-badge" alt="francistinao_" /></a> </p>
+<p> <a href="https://twitter.com/francistinao_" target="blank"><img src="https://img.shields.io/twitter/follow/francistinao_?logo=twitter&style=for-the-badge" alt="francistinao_" /></a> </p>
 <hr>
 <h3 align="left">Technology Stack<sup>⚪<sup></h3>
 <p>These are the technologies I use and been practicing more on the rest<p>
