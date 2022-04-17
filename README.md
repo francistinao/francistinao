@@ -1,10 +1,9 @@
 <h2>👋 Hello there! My name is Francis Tin-ao</h2>
 <h3>A BSIT Student specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
-
+<br>
 <p> <img src="https://komarev.com/ghpvc/?username=francistinao&label=Profile%20views&color=0e75b6&style=flat" alt="francistinao" width="140"/> </p>
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francistinao" alt="francistinao" /></a> </p>
-
+<br>
+[![GitHub Bryl](https://img.shields.io/github/followers/bryllim?label=follow&style=social)](https://github.com/francistinao)
 <p> A 19 year-old Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
 <hr>
 - 💬 Anything to ask more about me? Feel free to message @ franfra10j@gmail.com <br>
