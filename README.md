@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/github/followers/francistinao?label=follow&style=social)](https://github.com/francistinao)
 
 
-<p> A 19 year-old Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
+<p> Currently 19 years old and I am a Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
 <hr>
 - 💬 Anything to ask more about me? Feel free to message @ franfra10j@gmail.com <br>
 - 👨‍💻 All of my projects are available at <a href="https://francistinao.tech">francistinao.tech</a> <br>
