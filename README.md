@@ -7,6 +7,12 @@
 
 <p> Currently 19 years old and I am a Tech and Keebs Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </p>
 <hr>
+ <h3>I also do Graphic Designs</h3>
+<h6>I have been a self-taught Graphic Artist/Designer for the past 6 years of my life. Started from a simple application I used which is MS Paint until I mastered Photoshop. I've gone through different works and most of it are freelanced. I do freelancing due to the fact that it aligns my chosen field and career</h6>
+ <p><i>Tools I use</i></p>
+ <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
+<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
+<hr>
 💬 Anything to ask more about my info? Feel free to email me @ franfra10j@gmail.com <br>
 👨‍💻 All of my projects are available at <a href="https://francistinao.tech">francistinao.tech</a> 
 <hr>
@@ -31,13 +37,8 @@
  <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+ 
 <hr>
- <h3>I also do Graphic Designs</h3>
-<h6>I have been a self-taught Graphic Artist/Designer for the past 6 years of my life. Started from a simple application I used which is MS Paint until I mastered Photoshop. I've gone through different works and most of it are freelanced. I do freelancing due to the fact that it aligns my chosen field and career</h6>
- <p><i>Tools I use</i></p>
- <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
-<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
-  
-<hr>
+ 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francistinao&show_icons=true&locale=en&layout=compact" alt="francistinao" />
   
