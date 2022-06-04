@@ -44,6 +44,5 @@
  
  <div align="left">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=francistinao&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-    <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francistinao&theme=dark&layout=compact&hide_border=true" />
  </div>
   
