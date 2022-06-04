@@ -1,4 +1,4 @@
-<h2>Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></h2>
 <h3>My name is <b>Francis Tin-ao</b>, a <b>BSIT Student</b> specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
 
 
