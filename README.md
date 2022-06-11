@@ -7,7 +7,7 @@
 
 <h6> Currently 19 years old, Tech and Keeb Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </h6>
 <hr>
- <h3>I also do Graphic Designs</h3>
+ <h3>I also do Graphic Designing</h3>
 <h6>I have been a self-taught Graphic Artist/Designer for the past 6 years of my life. Started from a simple application I used which is MS Paint until I mastered Photoshop. I've gone through different works and most of it are freelanced. I do freelancing due to the fact that it aligns my chosen field and career</h6>
  <p><i>Tools I use</i></p>
  <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
