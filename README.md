@@ -1,3 +1,4 @@
+<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
 <h3>My name is <b>Francis Tin-ao</b>, a <b>BSIT Student</b> specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
 
 
