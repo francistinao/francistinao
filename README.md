@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/followers/francistinao?label=follow&style=social)](https://github.com/francistinao)
 
 
-<h6> Currently 19 years old, Tech and Keeb Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </h6>
+<h6> Currently a 20 year-old Tech and Keeb Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </h6>
 <hr>
  <h3>I also do Graphic Designing</h3>
 <h6>I have been a self-taught Graphic Artist/Designer for the past 6 years of my life. Started from a simple application I used which is MS Paint until I mastered Photoshop. I've gone through different works and most of it are freelanced. I do freelancing due to the fact that it aligns my chosen field and career</h6>
@@ -25,9 +25,11 @@
 <hr>
 <h3 align="left">Technology Stack</h3>
 <p><i>Stack</i></p>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px">
+<img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px">
 <a href="https://reactjs.org/" title="ReactJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="21" height="21"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
- <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
  
 <hr>
  
