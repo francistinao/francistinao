@@ -23,6 +23,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/francistinao_?style=social)
  
 <hr>
+<h3>Tech Stack</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwind&perline=6" />
