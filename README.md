@@ -23,8 +23,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/francistinao_?style=social)
  
 <hr>
-<h3 align="left">Technology Stack</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwind&perline=6)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwind&perline=6" />
+  </a>
+</p>
  
 <hr>
  
