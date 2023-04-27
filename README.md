@@ -23,6 +23,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/francistinao_?style=social)
  
 <hr>
+<a href="https://app.daily.dev/Garuda"><img src="https://api.daily.dev/devcards/b84957b451a741baa4660a87b6ece678.png?r=eor" width="400" alt="qaruda's Dev Card"/></a>
 <h3>Tech Stack</h3>
 <p>
   <a href="https://skillicons.dev">
