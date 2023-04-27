@@ -23,20 +23,24 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/francistinao_?style=social)
  
 <hr>
-<a href="https://app.daily.dev/Garuda"><img src="https://api.daily.dev/devcards/b84957b451a741baa4660a87b6ece678.png?r=eor" width="400" alt="qaruda's Dev Card"/></a>
-<h3>Tech Stack</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwind&perline=6" />
-  </a>
-</p>
- 
-<hr>
- 
-<p>
- 
- <div align="left">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=francistinao&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-    <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francistinao&theme=dark&layout=compact&hide_border=true" />
- </div>
+<div style="display: flex">
+  <a href="https://app.daily.dev/Garuda"><img src="https://api.daily.dev/devcards/b84957b451a741baa4660a87b6ece678.png?r=eor" width="400" alt="qaruda's Dev Card"/></a>
+  <div>
+    <h3>Tech Stack</h3>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwind&perline=6" />
+      </a>
+    </p>
+
+    <hr>
+
+    <p>
+
+     <div align="left">
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=francistinao&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+        <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francistinao&theme=dark&layout=compact&hide_border=true" />
+     </div>
+  </div>
+</div>
   
