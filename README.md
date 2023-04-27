@@ -32,11 +32,6 @@
         <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwind&perline=6" />
       </a>
     </p>
-
-    <hr>
-
-    <p>
-
      <div align="left">
         <img width="400" src="https://github-readme-stats.vercel.app/api?username=francistinao&theme=dark&show_icons=true&hide_border=true&count_private=true" />
         <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francistinao&theme=dark&layout=compact&hide_border=true" />
