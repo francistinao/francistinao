@@ -33,7 +33,7 @@
       </a>
     </p>
      <div align="left">
-        <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francistinao&theme=dark&layout=compact&hide_border=true" />
+        <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qarudafxz&theme=dark&layout=compact&hide_border=true" />
      </div>
   </div>
 </div>
