@@ -1,7 +1,7 @@
 <h3><img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>My name is <b>Francis Tin-ao</b>, a <b>BSIT Student</b> specializing Web Development and soon to be a Full-Stack Software Engineer</h3>
 
 
-[![GitHub](https://img.shields.io/github/followers/francistinao?label=follow&style=social)](https://github.com/francistinao)
+[![GitHub](https://img.shields.io/github/followers/qarudafxz?label=follow&style=social)](https://github.com/francistinao)
 
 
 <h6> Currently a 20 year-old Tech and Keeb Enthusiast. I know myself as a highly motivated, passionate, and optimistic student who is eager to learn and willing to discover more about the field of Tech Industry. My main focus as of now is to develop web applications, to learn different programming languages, and to learn modern technologies for the web. </h6>
