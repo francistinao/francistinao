@@ -13,7 +13,7 @@
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <hr>
 💬 Anything to ask more about my info? Feel free to email me @ franfra10j@gmail.com <br>
-👨‍💻 All of my projects are available at <a href="https://francistinao.tech">francistinao.tech</a> 
+👨‍💻 All of my projects are available at <a href="http://francistinao.vercel.app">francistinao.tech</a> 
 <hr>
 <h3>Connect with me</h3>
 <p>
