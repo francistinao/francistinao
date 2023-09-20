@@ -1,4 +1,4 @@
-<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="120" height="120"/>
 <div style="display: flex">
   <div>
      <div align="left">
