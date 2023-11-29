@@ -1,4 +1,12 @@
-<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="120" height="120"/>
+```json
+{
+  "name": "Francis Tin-ao",
+  "about": "21 years old aspiring engineer",
+  "stacks": ["Typescript", "React", "Express", "NodeJS", "Laravel"],
+  "interests" ["DNN", "AI", "ML", "Full-Stack", "Start-up"],
+  "contact" () => message(email@francistinao.tech)
+}
+```
 <div style="display: flex">
   <div>
      <div align="left">
