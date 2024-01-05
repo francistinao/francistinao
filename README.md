@@ -5,7 +5,7 @@
   "stacks": ["React", "Express", "NodeJS", "Laravel", "PostgreSQL", "MongoDB"],
   "languages" : ["Typescript", "Java", "C", "Python"],
   "interests" ["DNN", "AI", "ML", "DSA", "Full-Stack", "Start-up"],
-  "contact" () => message(email@francistinao.tech)
+  "contact" () => emailMe("email@francistinao.tech")
 }
 ```
   
