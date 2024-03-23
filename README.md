@@ -1,3 +1,6 @@
+![image](https://github.com/qarudafxz/qarudafxz/assets/70809588/6574ebfd-803e-4e96-91d6-96a1c11f5546)
+
+
 ```json
 {
   "name": "Francis Tin-ao",
@@ -5,7 +8,7 @@
   "stacks": ["React", "Express", "NodeJS", "Laravel", "PostgreSQL", "MongoDB", "Supabase"],
   "languages": ["Typescript", "Java", "C", "Python"],
   "interests": ["DNN", "AI", "ML", "DSA", "Full-Stack", "Start-up"],
-  "contact": () => emailMe("email@francistinao.tech"),
+  "contact": () => emailMe("email@francistinao.tech" || "francisjtinao@gmail.com"),
   "socials": [
     {
         "name": "Facebook",
