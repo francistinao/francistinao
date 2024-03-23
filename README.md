@@ -20,7 +20,7 @@
     },
     {
         "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/francis-tin-ao-10050412a"
+        "link": "https://www.linkedin.com/in/francistinao"
     },
     {
         "name": "Dev Community",
