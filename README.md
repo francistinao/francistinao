@@ -1,5 +1,7 @@
-![image](https://github.com/qarudafxz/qarudafxz/assets/70809588/6574ebfd-803e-4e96-91d6-96a1c11f5546)
-
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=qarudafxz&theme=react&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qarudafxz&theme=react&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 ```json
 {
