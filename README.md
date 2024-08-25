@@ -1,4 +1,8 @@
 <div align="center">
+   <a href="https://app.daily.dev/garuda274"><img src="https://api.daily.dev/devcards/v2/RhcB3tFgjtXkwboZ5b6rx.png?type=default&r=9st" width="356" alt="qaruda's Dev Card"/></a>
+</div>
+
+<div align="center">
    <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=francistinao&theme=tokyonight&hide_border=true" />
 </div>
 
