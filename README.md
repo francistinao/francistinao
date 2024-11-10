@@ -1,36 +1,16 @@
-<div align="center">
-   <a href="https://app.daily.dev/garuda274"><img src="https://api.daily.dev/devcards/v2/RhcB3tFgjtXkwboZ5b6rx.png?type=default&r=9st" width="356" alt="qaruda's Dev Card"/></a>
-</div>
+<p align="center">
+   A coder and designer—with a minor in the fine art of <code>procrastination</code>.
+</p>
 
-```json
-{
-  "name": "Francis Tin-ao",
-  "about": "21 years old aspiring engineer",
-  "stacks": ["React", "Express", "NodeJS", "Laravel", "PostgreSQL", "MongoDB", "Supabase"],
-  "languages": ["Typescript", "Java", "C", "Python"],
-  "interests": ["DNN", "AI", "ML", "DSA", "Full-Stack", "Start-up"],
-  "contact": () => emailMe("email@francistinao.tech" || "francisjtinao@gmail.com"),
-  "socials": [
-    {
-        "name": "Facebook",
-        "link": "https://www.facebook.com/francisj.tinao"
-    },
-    {
-        "name": "Twitter",
-        "link": "https://twitter.com/francistinao_"
-    },
-    {
-        "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/francistinao"
-    },
-    {
-        "name": "Dev Community",
-        "link": "https://dev.to/francistinao"
-    }
- ]
-}
-```
-<div align="center">
-   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=francistinao&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/typescript-%231e1e1e.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%231e1e1e.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/python-%231e1e1e.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-%231e1e1e.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/laravel-%231e1e1e.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
 
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=francistinao&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=francistinao&theme=dark&hide_border=true" />
+</div>
