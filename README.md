@@ -1,3 +1,5 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=francistinao&label=Profile%20views&color=0e75b6&style=flat" alt="francistinao"/></p>
+
 <p align="center">
    A coder and designer—with a minor in the fine art of <code>procrastination</code>.
 </p>
