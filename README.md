@@ -1,10 +1,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=francistinao&label=Profile%20views&color=0e75b6&style=flat" alt="francistinao"/></p>
 
 <p align="center">
-   A coder and designer—with a minor in the fine art of <code>procrastination</code>.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/typescript-%231e1e1e.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/react-%231e1e1e.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
    <img src="https://img.shields.io/badge/Next.js-%231e1e1e.svg?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next JS" />
