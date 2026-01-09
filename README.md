@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%231e1e1e.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-1e1e1e?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/node.js-%231e1e1e.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/next.js-1e1e1e.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
   <img src="https://img.shields.io/badge/nestjs-%231e1e1e.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
