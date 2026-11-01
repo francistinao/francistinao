@@ -1,28 +1,26 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=francistinao&label=Profile%20views&color=0e75b6&style=flat" alt="francistinao"/></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/typescript-%231e1e1e.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-1e1e1e?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/node.js-%231e1e1e.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/hono-1e1e1e.svg?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-  <img src="https://img.shields.io/badge/next.js-1e1e1e.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/nestjs-%231e1e1e.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Laravel-1e1e1e?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/FastAPI-1e1e1e?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</p>
-
 ---
 
 ## 👋 Hi Folks, Francis Tin-ao here
 
-A **Full-Stack Software Engineer** who enjoys building **clean, scalable systems** and turning complex ideas into practical products.  
-My work usually sits at the intersection of **frontend experience, backend architecture, and AI-powered workflows**.
+A **Product Engineer** who cares as much about *why* something gets built as *how* it gets built.  
+I come from a full-stack background, so I like owning features end to end: understanding the user problem, shaping the experience, building the API behind it, and iterating once it's live.
 
-- Building **fullstack apps** using React, React Native, Vite, Next.js, TailwindCSS, Shadcn, and TypeScript  
-- Designing **API-first backends** with Node.js, ExpressJS, Hono, NestJS, Laravel, and FastAPI  
-- Exploring **AI integrations**, automation, and intelligent workflows  
-- Creating products that balance **engineering quality + real user needs**
+### How I work
+- **Start from the user problem**, not just the ticket. "What are we solving?" comes before "what are we building?"
+- **Ship small, learn fast.** Get something real in front of people, then refine based on feedback and usage
+- **Own the whole slice.** UI, state, API, data, and deployment, so nothing gets lost between handoffs
+- **Balance craft with pragmatism.** Clean, maintainable code that moves the product forward instead of slowing it down
+
+### What I build with
+- **Frontend & Mobile:** React, React Native, Next.js, Vite, TypeScript, TailwindCSS, shadcn/ui
+- **Backend & APIs:** Node.js, Express, Hono, NestJS, Laravel, FastAPI
+- **AI & Automation:** LLM integrations, intelligent workflows, and tools that cut out repetitive work
+
+### Right now
+- Shipping product features across full-stack roles
+- Exploring how AI can make products genuinely more useful, not just more impressive
 
 ---
 
